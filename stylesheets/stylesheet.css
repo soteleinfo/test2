@@ -342,6 +342,13 @@ header.inner {
   text-align: center;
 }
 
+iframe {
+  height: 560px;
+  margin-left: 40px !important;
+}
+a#foxyform_embed_link_47561 {
+  display: none !important;
+}
 
 /*******************************************************************************
 Small Device Styles
