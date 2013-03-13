@@ -348,6 +348,9 @@ iframe {
 a#foxyform_embed_link_47562 {
   display: none !important;
 }
+#ifwrapper {
+  margin-left: 60px;
+}
 
 /*******************************************************************************
 Small Device Styles
